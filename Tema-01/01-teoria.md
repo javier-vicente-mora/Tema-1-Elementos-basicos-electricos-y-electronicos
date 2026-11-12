@@ -12,12 +12,7 @@ Un átomo está formado por tres partículas principales:
 * **Neutrones:** No tienen carga (son neutros) y están en el núcleo.
 * **Electrones:** Tienen carga eléctrica negativa ($-$) y giran alrededor del núcleo en órbitas exteriores.
 
-```text
-       [  Átomo  ]
-      /     |     \
-Protones Neutrones Electrones
-  (+)       (0)        (-)
-```
+![Estructura de un átomo](img/atomo.jpg)
 
 > 💡 **Concepto Clave:**
 > La **electricidad** es el movimiento o flujo de electrones libres a través de un material conductor (como el cobre de los cables de un ordenador).
